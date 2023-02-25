@@ -30,7 +30,7 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(28)Matt%20Rogers%20-%20Rudolph%20the%20Deep%20Throat%20Reindeer-1pMV4CIFdRA.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(29)SAINT%20MOTEL%20-%20A%20Good%20Song%20Never%20Dies%20(Official%20Audio)-s29fcv5E52Y.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(30)WellerHub-TdcDT8Y7d9k.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(31)Everybody’s%20a%20bit%20of%20a%20cunt%20sometimes-3TEhEplc_Sk.mp3",
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(31)Everybodysabitofacuntsometimes.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(32)Subway%20Sexists-uFPu4Gfau2o.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(33)Willie%20Nelson%20-%20On%20The%20Road%20Again%20(Official%20Audio)-dBN86y30Ufc.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(34)the%20ink%20spots%20-%20balls%20in%20yo%20jaws%20(1941)-MQqxdt6gL2A.mp3",
