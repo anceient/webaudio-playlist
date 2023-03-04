@@ -125,7 +125,7 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(123)%20laserdance.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(124)A%20Happy%20Jam%20(Original%20Song)%20%5BBV6Lalg3XOQ%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(125)Ebay%20Parody%20Song%20-%20Weird%20Al%20Yankovic%20%5BYKtlK7sn0JQ%5D.mp3",
-		"https://github.com/anceient/webaudio-playlist/blob/main/(126)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3"
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(126)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3"
 	],
 	"Names": [
 		"[SFM] G-Man - Once in a Lifetime",
