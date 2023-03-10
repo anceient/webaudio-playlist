@@ -42,7 +42,7 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(79)LunchMoney%20Lewis%20-%20Bills%20(Official%20Video)%20%5B_IrQHeDcMi8%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(81)In%20the%20Hall%20of%20the%20Mountain%20King%20-%20Edvard%20Grieg%20_%20Impossible%20Piano%20Remix%20_%20Black%20MIDI%20%40Sir%20Spork%20%5Bp_c6uQHlhZ0%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(83)Ain't%20No%20Rest%20for%20the%20Wicked%20%5Be2Z0sON2UPc%5D.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(85)2CELLOS%20-%20Thunderstruck%20%5BOFFICIAL%20VIDEO%5D%20%5BuT3SBzmDxGk%5D.mp3",,
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(85)2CELLOS%20-%20Thunderstruck%20%5BOFFICIAL%20VIDEO%5D%20%5BuT3SBzmDxGk%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(87)The%20Dead%20South%20-%20In%20Hell%20I'll%20Be%20In%20Good%20Company%20%5BOfficial%20Music%20Video%5D%20%5BB9FzVhw8_bY%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(89)Kenny%20Rogers%20-%20The%20Gambler%20%5B7hx4gdlfamo%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(91)Billy%20Joel%20-%20Piano%20Man%20(Official%20HD%20Video)%20%5BgxEPV4kolz0%5D.mp3",
