@@ -123,9 +123,10 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(121)Really%20Slow%20Motion%20-%20Deadwood%20(Epic%20Dark%20Rock%20Action)%20%5BT8BI2fKzdys%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(122)Stephen%20Lynch%20~%20Gerbil%20%5Bf0Pw9N4DhLI%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(123)%20laserdance.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(124)A%20Happy%20Jam%20(Original%20Song)%20%5BBV6Lalg3XOQ%5D.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(125)Ebay%20Parody%20Song%20-%20Weird%20Al%20Yankovic%20%5BYKtlK7sn0JQ%5D.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(126)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3"
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(124)dick%20song%20%5BK-Z_VR8gN5U%5D.mp3",
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(125)A%20Happy%20Jam%20(Original%20Song)%20%5BBV6Lalg3XOQ%5D.mp3",
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(126)Ebay%20Parody%20Song%20-%20Weird%20Al%20Yankovic%20%5BYKtlK7sn0JQ%5D.mp3",
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(127)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3"
 	],
 	"Names": [
 		"[SFM] G-Man - Once in a Lifetime",
@@ -251,6 +252,7 @@
 		"Deadwood",
 		"Gerbil",
 		"Thé à la Menthe",
+		"dick song",
 		"A Happy Jam",
 		"Ebay Parody Song",
 		"Do you wanna build a meth lab?"

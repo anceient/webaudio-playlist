@@ -63,8 +63,9 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(119)Tim%20Hawkins%20-%20Things%20You%20Don't%20Say%20To%20Your%20Wife%20%5BXpFD-kgQxnI%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(121)Really%20Slow%20Motion%20-%20Deadwood%20(Epic%20Dark%20Rock%20Action)%20%5BT8BI2fKzdys%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(123)%20laserdance.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(124)A%20Happy%20Jam%20(Original%20Song)%20%5BBV6Lalg3XOQ%5D.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(125)Ebay%20Parody%20Song%20-%20Weird%20Al%20Yankovic%20%5BYKtlK7sn0JQ%5D.mp3"
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(125)A%20Happy%20Jam%20(Original%20Song)%20%5BBV6Lalg3XOQ%5D.mp3",
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(126)Ebay%20Parody%20Song%20-%20Weird%20Al%20Yankovic%20%5BYKtlK7sn0JQ%5D.mp3",
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(127)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3"
 	],
 	"Names": [
 		"[SFM] G-Man - Once in a Lifetime",
@@ -131,6 +132,7 @@
 		"Deadwood",
 		"Thé à la Menthe",
 		"A Happy Jam",
-		"Ebay Parody Song"
+		"Ebay Parody Song",
+		"Do you wanna build a meth lab?"
 	]
 }
