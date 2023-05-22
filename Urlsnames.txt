@@ -127,7 +127,8 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(125)A%20Happy%20Jam%20(Original%20Song)%20%5BBV6Lalg3XOQ%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(126)Fucked%20with%20an%20Anchor%20%5BVYVykRri79c%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(127)Ebay%20Parody%20Song%20-%20Weird%20Al%20Yankovic%20%5BYKtlK7sn0JQ%5D.mp3",
-		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(128)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3"
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(128)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3",
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(129)ILLEGALS%20IN%20MY%20YARD.mp3"
 	],
 	"Names": [
 		"[SFM] G-Man - Once in a Lifetime",
@@ -257,6 +258,7 @@
 		"A Happy Jam",
 		"Fucked with an Anchor",
 		"Ebay Parody Song",
-		"Do you wanna build a meth lab?"
+		"Do you wanna build a meth lab?",
+		"ILLEGALS IN MY YARD"
 	]
 }
