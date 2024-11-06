@@ -67,6 +67,7 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(127)Ebay%20Parody%20Song%20-%20Weird%20Al%20Yankovic%20%5BYKtlK7sn0JQ%5D.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(129)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(131)ILLEGALS%20IN%20MY%20YARD.mp3"
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(132)The%20Raconteurs%20Salute%20Your%20Solution.mp3"
 	],
 	"Names": [
 		"[SFM] G-Man - Once in a Lifetime",
@@ -136,5 +137,6 @@
 		"Ebay Parody Song",
 		"Do you wanna build a meth lab?",
 		"ILLEGALS IN MY YARD"
+		"The Raconteurs Salute Your Solution"
 	]
 }

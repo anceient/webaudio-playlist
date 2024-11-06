@@ -131,6 +131,7 @@
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(129)Do%20You%20Want%20to%20Build%20a%20Meth%20Lab.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(130)FUCKING%20MEN.mp3",
 		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(131)ILLEGALS%20IN%20MY%20YARD.mp3"
+		"https://raw.githubusercontent.com/anceient/webaudio-playlist/main/(132)The%20Raconteurs%20Salute%20Your%20Solution.mp3"
 	],
 	"Names": [
 		"[SFM] G-Man - Once in a Lifetime",
@@ -264,5 +265,6 @@
 		"Do You Want To Build a Meth Lab?",
 		"FUCKING MEN",
 		"ILLEGALS IN MY YARD"
+		"The Raconteurs Salute Your Solution"
 	]
 }
